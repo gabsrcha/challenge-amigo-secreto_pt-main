@@ -1,5 +1,5 @@
 ﻿# challenge-amigo-secreto_pt-main
-<h1 align="center"> Amigo Secreto </h1>
+<h1 align="center"> Sorteador de Amigo Secreto </h1>
 
 # Amigo Secreto
 
